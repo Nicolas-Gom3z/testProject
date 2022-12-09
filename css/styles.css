@@ -4,6 +4,15 @@
 
 body {
   background-color: #131313;
+  
+}
+
+h1{
+  color: rgb(234, 234, 234);
+}
+
+p {
   font-size: 25px;
   color:white;
+
 }
